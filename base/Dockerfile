@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM tiush/cloud9-docker
 MAINTAINER MeteorHacks Pvt Ltd.
 
 ENV METEORD_DIR /opt/meteord
